@@ -1,1 +1,9 @@
-测试测试🚗
+{
+"menubaoloi3":"↩️ Main Menu",
+"menuchinh1":"💬 Enter the URL video",
+"menuxong0":"🥳 Download successful!!",
+"menuchinh2-content":"There are 2 ways to download:\n\nMethod 1:\n\nPress the shortcut directly => Paste the video link\n\nMethod 2:\nGo to the app from which you want to download video, for example TikTok => Press the share icon => Add... => Snap Video",
+"homeurl":"https:\/\/snapvideo.co",
+"menuchonpt":"Select download method:",
+"err-text-2":" - Error URL: ",
+"menuupdate3":"❌ Close","menuupdate":"🆕 New update available!","menubaoloi2":"⚠️ Report an error","filename":"snapvideo.co--","apiURL":"https:\/\/snaptool.io\/sv\/index.php","menuupdate-url":"https:\/\/snapvideo.co\/get-snap-video-shortcuts\/","menuupdate2":"🔎 Update information","menuxong1":"🖼 Open Recent Album","menubaoloi1":"✅ Download via snapvideo.co","menuchinh3-content":"","menuchinh4":"⚠️ Common Issuesp","menuchinh3-url":"https:\/\/api.phimtat.vn\/snapvideo\/red.php?url=https:\/\/snaptool.io\/sv\/list-platform.php","menuupdate1":"🚀 Update now!!","menuupdate-tt":"https:\/\/snapvideo.co\/get-snap-video-shortcuts\/","menuchinh2":"📖 Instructions","menubaoloi2-alert":"You should record a video of the error screen so that the admin can easily support you!","menuxong2":"🎵 Open File","menuxongc":"❌ Close","err-text-3":"Error loading data source, ","menuchinh0":"Select a function:","linkexpand":"instagram.com\/share","menuchinh4-content":"https:\/\/api.phimtat.vn\/snapvideo\/red.php?url=https:\/\/www.facebook.com\/groups\/phimtat.vn\/posts\/346890241015002","err-text-1":"Error: ","maintenance":"1","updatebb":2,"menuchinh1-content":"Enter the URL of the video you want to download (Automatically paste from clipboard)","urlred":"https:\/\/api.phimtat.vn\/snapvideo\/red.php?url=","menubaoloi":"Unable to download:","menuchinh3":"🌎 View supported platforms","menubaoloi2-content":"https:\/\/api.phimtat.vn\/snapvideo\/red.php?url=https:\/\/forms.gle\/dTAwGgrtihwN8Ssp7"}
